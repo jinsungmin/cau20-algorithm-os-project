@@ -1,8 +1,8 @@
-Algorithm-Assignment#4 - MNIST Data Training
+# Algorithm-Assignment#4 - MNIST Data Training
 
-Model 1 : 3 Layers with 1 Convolution layer
+## Model 1 : 3 Layers with 1 Convolution layer
 
-Training Accuracy & Loss
+### Training Accuracy & Loss
 
 <img src="/images/model1_training.PNG" width="700" height="200">
 
