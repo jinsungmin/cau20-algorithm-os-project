@@ -8,7 +8,7 @@ Training Accuracy & Loss
 
 Test Accuracy Results
 
-<img src="/images/model1_accuracy.PNG" width="500" height="150">
+<img src="/images/model1_accuracy.PNG" width="400" height="100">
 
 Success Image
 
@@ -28,7 +28,7 @@ Training Accuracy & Loss
 
 Test Accuracy Results
 
-<img src="/images/model2_accuracy.PNG" width="500" height="150">
+<img src="/images/model2_accuracy.PNG" width="400" height="100">
 
 Success Image
 
@@ -48,7 +48,7 @@ Training Accuracy & Loss
 
 Test Accuracy Results
 
-<img src="/images/model3_accuracy.PNG" width="500" height="150">
+<img src="/images/model3_accuracy.PNG" width="400" height="100">
 
 Success Image
 
