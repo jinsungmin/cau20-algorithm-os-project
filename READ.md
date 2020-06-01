@@ -1,3 +1,3 @@
 First
 
-![model1_training](./images/model1_training.png)
+![model1_training](./images/model1_training.PNG)
